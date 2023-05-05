@@ -1,0 +1,139 @@
+@media (min-width:992px) and (max-width:1200px) {
+    .menu ul li a {
+        font-size: 14px;
+        padding: 5px 10px !important;
+    }
+    .logo {
+        padding: 20px 0px !important;
+    }
+    .flash-sale {
+        padding: 70px 35px !important;
+    }
+}
+
+@media(min-width:991px) and (max-width:1200px) {
+    .info-item {
+        padding: 50px 30px 50px !important;
+    }
+    .info-of-watch {
+        margin: 0 !important;
+    }
+}
+
+@media(max-width:991px) {
+    .logo {
+        padding: 20px 0px !important;
+    }
+    .name {
+        font-size: 27px !important;
+    }
+    .nam,
+    .description {
+        font-size: 14px !important;
+    }
+    .price {
+        font-size: 23px !important;
+    }
+    .explore {
+        font-size: 12px !important;
+        font-weight: normal !important;
+        margin-top: 5px !important;
+    }
+    .carousel-item .col-lg-5 {
+        left: 7% !important;
+        width: 100% !important;
+    }
+    .flash-sale {
+        padding: 70px 35px !important;
+    }
+    .flash-sale .ngoai {
+        padding: 0px 5px !important;
+    }
+    .intro-text {
+        font-size: 15px !important;
+        padding-top: 10px !important;
+    }
+    .info-item {
+        padding: 25px 20px 25px !important;
+    }
+    .name-of-watch {
+        font-size: 24px !important;
+    }
+    .info-of-watch {
+        font-size: 15px !important;
+    }
+    .view {
+        margin-top: 0px !important;
+        font-size: 12px !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .carousel-item:last-child .col-lg-5 {
+        left: 50% !important;
+    }
+}
+
+@media (max-width:768px) {
+    .carousel-item img {
+        width: 100%;
+        height: 50vh !important;
+    }
+    .sub-menu-item a {
+        font-size: 12px !important;
+    }
+    .product-name {
+        font-size: 17px !important;
+        margin-bottom: 0;
+    }
+    .slogan {
+        font-size: 14px !important;
+    }
+    /* ====================================================== */
+    .info-item {
+        padding: 50px 30px 30px !important;
+    }
+    .name-of-watch {
+        font-size: 23px !important;
+    }
+    .info-of-watch {
+        font-size: 14px !important;
+    }
+    .view {
+        font-size: 12px !important;
+        padding: 7px 15px !important;
+    }
+    /* =================================================== */
+    .feedback-title,
+    .blog-title,
+    .title,
+    .intro-title,
+    .best-of-year-title {
+        font-size: 25px !important;
+    }
+    .intro-content {
+        padding-left: 40px !important;
+    }
+    .intro-text {
+        font-size: 14px !important;
+        padding-top: 5px !important;
+    }
+    .intro-buynow {
+        font-size: 13px !important;
+    }
+    button.subscribe,
+    .form-feedback,
+    .feedback-text {
+        font-size: 11px !important;
+    }
+    .app-contact i {
+        font-size: 14px !important;
+        width: 32px !important;
+        padding: 7px 9px !important;
+    }
+    /* ========================================================== */
+    .search {
+        padding: 0 0 5px !important;
+        justify-content: space-around !important;
+    }
+}
